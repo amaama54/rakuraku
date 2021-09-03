@@ -16,7 +16,7 @@
 幼稚園や保育園、学校などで保護者に連絡がある時
 
 ## 設計書
-<...>
+ER図：https://app.diagrams.net/#G1MtAPyah41qYt8uj5DQ-F32dZCpIwxU7T
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1ZZTpafQf3sG0blJgMaxGYF21OrTaS4ozZLK2uoQfHQI/edit#gid=0
